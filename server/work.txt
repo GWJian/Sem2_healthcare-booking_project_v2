@@ -1,0 +1,14 @@
+PROJECT NAME: HEALTHCARE BOOKING FULL STACK WEB APP USING MERN
+Healthcare booking full stack web app using MERN
+4minimun collection 
+basic user login logout register(customer,doctor,admin) and GitHub Authenticating API
+booking date, time and choosing a doctor
+payment using PayPal APIs
+real-time chatting with the doctor
+
+
+Day 1
+complete basic user register login 
+
+Day 2
+admin edit delete user and change user role

@@ -1,0 +1,49 @@
+=====================================================
+=====================================================
+=====================================================
+=====================================================
+=====================================================
+
+frontend bug
+if not login,not allow to visit other pages
+email disable name can edit
+edit profile pw set limit
+error missing
+appoiment pending bug, if detect empty string " ",kick or not allow to submit
+set email validation
+
+==================================== Last to do ===================
+send email when 
+https://www.twilio.com/en-us/sendgrid/email-api
+nextAuth
+
+
+
+=====================================================
+=====================================================
+=====================================================
+=====================================================
+=====================================================
+
+Frontend
+====================================================
+Home page
+-pagination the rating 
+-maybe add comment in the rating
+-add map under the address
+
+
+adminappoiment and usercreateappoiment
+-create appoiment data need change to fix hour like 10:00 11:00 12:00
+-appoiment try change to modal
+
+
+
+
+
+
+
+
+=============================================
+callback gen token
+how to generate a token when i login using next-auth google provider   
